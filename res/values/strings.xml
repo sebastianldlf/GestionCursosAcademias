@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Practico2</string>
+    <string-array name="tipos_curso">
+        <item>Presencial</item>
+        <item>En línea</item>
+        <item>Intensivo</item>
+    </string-array>
+
+    <string-array name="niveles_curso">
+        <item>básico</item>
+        <item>intermedio</item>
+        <item>avanzado</item>
+    </string-array>
+</resources>
